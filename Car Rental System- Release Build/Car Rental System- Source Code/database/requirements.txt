@@ -1,0 +1,7 @@
+# Python dependencies for Car Rental System
+database
+factories
+gui
+models
+repositories
+services
